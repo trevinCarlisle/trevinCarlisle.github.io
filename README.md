@@ -19,7 +19,10 @@ professional assessment goes here
 ### Original Artifact and Enhancement
 #### Original Artifact: CS 340 Project Two - Python Data Dashboard
 
-artifact goes here
+You can access and the complete raw source code for the original Python script here:
+> *[Jupyter Notebook Artifact](assets/ProjectTwoDashboard.ipynb)
+> *[Python CRUD Helper Module](CRUD_Python_Module.py)
+
 narrative goes here
 
 #### Enhanced Artifact: CS 499 Capstone Enhancement - MEAN Stack Data Dashboard
