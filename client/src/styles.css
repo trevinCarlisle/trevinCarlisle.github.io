@@ -1,0 +1,10 @@
+/* Explicitly imports the leaflet tile layout rules into the global application context */
+@import '../node_modules/leaflet/dist/leaflet.css';
+
+/* Styling cleanup to ensure the map container displays correctly */
+#leaflet-map-id {
+  width: 100% !important;
+  height: 350px !important;
+  display: block !important;
+  background-color: #f8f9fa; /* Soft fallback background while tiles download */
+}

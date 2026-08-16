@@ -1,0 +1,10 @@
+/* Replicates the conditional background-color highlight parameter from your Dash script */
+.active-highlight {
+  background-color: #D2F3FF !important;
+  font-weight: bold;
+}
+
+/* Enhances hover usability for rows before selection triggers */
+tbody tr:hover {
+  background-color: #f1f3f5;
+}
