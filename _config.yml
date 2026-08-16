@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Trevin Carlisle's homepage
 description: Bookmark this to keep an eye on my project updates!
+exclude:
+  - node_modules
+  - client/node_modules
+  - server/node_modules
