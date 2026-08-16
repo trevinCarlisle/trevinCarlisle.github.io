@@ -1,5 +1,12 @@
 # Trevin Carlisle Professional ePortfolio
 ## Data Dashboard Enhancement Capstone Project
+### Table of Contents
+* [Professional Self-Assessment](professional-self-assessment)
+* [Code Review](code-review)
+* [Original Artifact and Enhancement](original-artifact-and-enhancement)
+
+---
+
 ### Professional Self-Assessment
 
 The development process of this ePortfolio has served to prepare me for entry into the computer science field by helping me understand and showcase my strengths as a software engineer and data analyst. The work shown below, along with the rest of my computer science degree, has addressed competency in collaborating in a team development environment, communication with stakeholders, data structures and algorithms, software engineering and database management, and programming security. 
