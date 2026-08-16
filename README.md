@@ -4,8 +4,8 @@
 * [Professional Self-Assessment](#professional-self-assessment)
 * [Code Review](#code-review)
 * [Original Artifact and Enhancement](#original-artifact-and-enhancement)
-    * [Original Artifact](#original-artifact---cs-340---project-two---python-data-dashboard)
-    * [Enhanced Artifact](#enhanced-artifact---cs-499-capstone-enhancement---mean-stack-data-dashboard)
+    * [Original Artifact](#original-artifact--cs-340---project-two---python-data-dashboard)
+    * [Enhanced Artifact](#enhanced-artifact--cs-499-capstone-enhancement---mean-stack-data-dashboard)
     * [Database Query Diagram](#database-query-diagram)
     * [Artifact Narrative](#artifact-narrative)
 
