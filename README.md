@@ -12,6 +12,8 @@ professional assessment goes here
   <source src="assets/code-review.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+ 
+---
 
 ### Original Artifact and Enhancement
 #### Original Artifact: CS 340 Project Two - Python Data Dashboard
