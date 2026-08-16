@@ -4,9 +4,10 @@
 * [Professional Self-Assessment](#professional-self-assessment)
 * [Code Review](#code-review)
 * [Original Artifact and Enhancement](#original-artifact-and-enhancement)
-    * [Original Artifact](#original-artifact-cs-340-project-two-python-data-dashboard)
-    * [Enhanced Artifact](#enhanced-artifact-cs-499-capstone-enhancement-mean-stack-data-dashboard)
+    * [Original Artifact](#original-artifact-cs-340---project-two-python-data-dashboard)
+    * [Enhanced Artifact](#enhanced-artifact-cs-499---capstone-enhancement-mean-stack-data-dashboard)
     * [Database Query Diagram](#database-query-diagram)
+    * [Artifact Narrative](#artifact-narrative)
 
 
 ---
@@ -55,9 +56,10 @@ You can access the complete raw source code for the enhanced MEAN Stack dashboar
 >
 > [Node.js and Express Backend Server Code](./server)
 
-*Database Query Diagram*
+#### Database Query Diagram
 ![Enhanced Dashboard Screenshot](assets/Database_Queries_Diagram.png)
 
+#### Artifact Narrative
 The Python data dashboard was a final project from a previous course in my computer science program. It was rushed and needed some improvement, even if it were to stay in Python. However, I chose to update it to a full MEAN stack application to push myself and fully demonstrate my abilities as a programmer. This project was developed for the capstone of my computer science degree, so I wanted to make a very big change. I chose this artifact because I really enjoyed the idea of it and the initial development, but I knew I could've done better. I wanted to do justice to this project that I enjoyed so much. 
 
 The big change for this enhancement is obviously that the entire platform the program is developed on has undergone a complete overhaul. Beyond this large change, I implemented a few other things to make the artifact more efficient and optimized. Defining a schema for the Animal JSON object and defining compound indexes directly in MongoDB streamlines the processes of importing and filtering data to stream to the UI. Additionally, I wrote an in-database feature-mining analytics route. This framework allows the optimized C++ engine in MongoDB to deliver data structures to the Angular frontend elements. 
