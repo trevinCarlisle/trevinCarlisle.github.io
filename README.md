@@ -1,5 +1,4 @@
 # Trevin Carlisle Professional ePortfolio
-
 ## Data Dashboard Enhancement Capstone Project
 ### Professional Self-Assessment
 
@@ -19,14 +18,16 @@ professional assessment goes here
 ### Original Artifact and Enhancement
 #### Original Artifact: CS 340 Project Two - Python Data Dashboard
 
-You can access and the complete raw source code for the original Python script here:
+You can access the complete raw source code for the original Python script here:
 > [Jupyter Notebook Artifact](assets/ProjectTwoDashboard.ipynb)
 > 
 > [Python CRUD Helper Module](CRUD_Python_Module.py)
 
-narrative goes here
-
 #### Enhanced Artifact: CS 499 Capstone Enhancement - MEAN Stack Data Dashboard
 
-artifact goes here
+You can access the complete raw source code for the enhanced MEAN Stack dashboard here:
+> [Angular Frontend Client Code](./client)
+>
+> [Node.js and Express Backend Server Code](./server)
+
 narrative goes here
